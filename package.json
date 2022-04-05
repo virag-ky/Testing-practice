@@ -1,0 +1,23 @@
+{
+  "name": "testing-practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "reverseString.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/virag-ky/Testing-practice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/virag-ky/Testing-practice/issues"
+  },
+  "homepage": "https://github.com/virag-ky/Testing-practice#readme",
+  "devDependencies": {
+    "jest": "^27.5.1"
+  }
+}
