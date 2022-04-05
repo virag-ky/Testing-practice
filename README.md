@@ -5,5 +5,13 @@
 
 ### Clone this repository
 
+```
+git clone git@github.com:virag-ky/Testing-practice.git
+```
+
 ### Run test file
+
+```
+npm test <FILE-NAME>.test.js
+```
 
