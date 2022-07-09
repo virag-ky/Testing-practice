@@ -51,10 +51,6 @@ Feel free to check the [issues page](../../issues/).
 
 Give a ⭐️ if you like this project!
 
-## Acknowledgments
-
-- This tutorial is from: https://ibaslogic.com/react-tutorial-for-beginners/
-- Learn more about React: https://reactjs.org/
 
 ## 📝 License
 
